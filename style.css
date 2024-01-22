@@ -52,6 +52,12 @@ h2 {
     font-size: 3rem;
     color: blanchedalmond; 
 }
+h3 {
+    margin-left: 1rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: blanchedalmond;
+}
 hr {
     margin-left: 2rem;
     margin-right: 2rem;
@@ -61,6 +67,25 @@ p {
     margin-left: 1rem;
     margin-right: 1rem;
     font-size: 1.5rem;
+}
+.ape {
+    margin-right: 1rem;
+    height: 15vh;
+    width: 15vw;
+}
+.fitness {
+    display: flex;
+    font-size: 1.2rem;
+}
+.travel {
+    margin-left: 1rem;
+    height: 30vh;
+    width: 20vw;
+}
+.tech {
+    margin-right: 1rem;
+    height: 35vh;
+    width: 20vw;
 }
 .quote {
     margin-top: 4rem;
@@ -88,7 +113,7 @@ body>div {
 footer {
     width: 100vw;
     background-color: #071E22;
-    height: 100vh 
+    height: 10vh 
 
 }
 .icon {

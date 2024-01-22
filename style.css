@@ -91,6 +91,21 @@ p {
     height: 35vh;
     width: 20vw;
 }
+.meme {
+    display: flex;
+    margin-left: 1rem;
+    margin-top: 1.2rem;
+    height: 20vh;
+}
+.java-meme {
+    display: flex;
+    margin-right: 1rem;
+}
+.funny-js {
+    display: flex;
+    height: 20vh;
+    width: 50vw;
+}
 .quote {
     margin-top: 4rem;
     font-size: 1.8rem;
